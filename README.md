@@ -77,7 +77,7 @@ Status:
 ## Tests
 * [Acceptance tests](test/acceptance/OfferAcceptanceSpec.scala)
 * [Service tests](test/com/github/stevee/offers/service/OfferServiceSpec.scala)
-* [Controller tests](test/com/github/stevee/offers/controller/OfferControllerSpec.scala)
+* [Controller tests](test/com/github/stevee/offers/controllers/OfferControllerSpec.scala)
 
 ## Limitations
 1. There is no authentication, authorization or TLS. 
